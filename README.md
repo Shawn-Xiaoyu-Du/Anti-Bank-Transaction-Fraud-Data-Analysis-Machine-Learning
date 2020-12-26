@@ -1,6 +1,7 @@
 # Anti-Fraud-Transaction-Data-analysis
 Based on 574256 Transaction lines to detect the Fraud Transaction automatically with model
-\n
+
+
 Variables Names:
 step: The number 1-24 represents24 hours.
 Transaction type. 
